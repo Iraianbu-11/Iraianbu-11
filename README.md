@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Iraianbu</h1>
-<h3 align="center">A passionate student from Madurai</h3>
+<h3 align="center">Aspiring Developer | Constantly Learning and Growing 🚀</h3>
+
+- 🌱 I’m currently learning **Blockchain , Web Development**
 
 - 📫 How to reach me **iraianbu011@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/@_.kxd_.irai._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_.kxd_.irai._" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/iraianbu12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iraianbu12" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
