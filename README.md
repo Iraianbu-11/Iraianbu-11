@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Iraianbu</h1>
 <h3 align="center">Aspiring Developer | Constantly Learning and Growing 🚀</h3>
 
-- 🌱 I’m currently learning **Blockchain , Web Development**
 
 - 📫 How to reach me **iraianbu011@gmail.com**
 
