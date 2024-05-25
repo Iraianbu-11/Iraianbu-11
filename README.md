@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Iraianbu</h1>
 <h3 align="center">Aspiring Developer | Constantly Learning and Growing 🚀</h3>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="360" align="right" alt="Domme Space Programmer GIF">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" align="right" alt="Domme Space Programmer GIF">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iraianbu-11&label=Profile%20views&color=0e75b6&style=flat" alt="iraianbu-11" /> </p>
 
