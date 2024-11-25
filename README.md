@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" align="right" alt="Domme Space Programmer GIF">
 
 
-- 🌱 I’m currently learning **React JS , Spring Boot**
+- 🌱 I’m currently learning **React JS , Tailwind CSS**
 
 - 💬 Ask me about **Linux,AWS,Docker**
 
